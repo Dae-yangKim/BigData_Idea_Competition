@@ -1,12 +1,12 @@
 # BigData_Idea_Competition
 과학기술정보통신부에서 개최하는 감염병 대응 빅데이터 활용 아이디어 공몬전에서 활동한 내용을 기록한 repo입니다.
 
-### Project 개요
+## Project 개요
 신규 감염병의 출현주기가 단축되고 반복되고 있는 우려 속에서 <mark>데이터를 기반으로 감염병에 대응하기 위해 실시</mark>
 
 [공모전 URL](https://www.all-con.co.kr/view/contest/505621?page=1&sortname=cl_order&sortorder=asc&stx=%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
-### Project 주제 & DataSet
+## Project 주제 & DataSet
 
 <b style='font-size:30'>Project 주제</b>
 
