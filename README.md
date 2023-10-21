@@ -26,16 +26,13 @@ _참고 뉴스_
 
 _감염병 빅데이터 거래소_
 
-[응급실 포화 지수](https://bigdata-covid.kr/product/CD042200030001)
-
-[중증응급환자 전원 현황](https://bigdata-covid.kr/product/CD042200090001)
-
-[응급의료기관 현황](https://bigdata-covid.kr/product/CD042200010001)
-
-[응급의료기관 내원 현황](https://bigdata-covid.kr/product/CD042200020001)
-
-[지역별감염병환자발생비율](https://bigdata-covid.kr/product/CD122200050001)
-
-[응급실 재실시간](https://bigdata-covid.kr/product/CD042200060001)
+| Data Name | URL |
+| --- | --- |
+| 응급실 포화 지수 | [https://bigdata-covid.kr/product/CD042200030001](https://bigdata-covid.kr/product/CD042200030001) |
+| 중증응급환자 전원 현황 | [https://bigdata-covid.kr/product/CD042200090001](https://bigdata-covid.kr/product/CD042200090001) |
+| 응급의료기관 현황 | [https://bigdata-covid.kr/product/CD042200010001](https://bigdata-covid.kr/product/CD042200010001) |
+| 응급의료기관 내원 현황 | [https://bigdata-covid.kr/product/CD042200020001](https://bigdata-covid.kr/product/CD042200020001) |
+| 지역별감염병환자발생비율 | [https://bigdata-covid.kr/product/CD122200050001](https://bigdata-covid.kr/product/CD122200050001) |
+| 응급실 재실시간 | [https://bigdata-covid.kr/product/CD042200060001](https://bigdata-covid.kr/product/CD042200060001) |
 
 _공공데이터포털_
