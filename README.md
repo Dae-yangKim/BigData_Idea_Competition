@@ -28,7 +28,7 @@ _감염병 빅데이터 거래소_
 
 | Data Name | URL |
 | --- | --- |
-| 응급실 포화 지수 | <a href='https://bigdata-covid.kr/product/CD042200030001' target='_blank'>https://bigdata-covid.kr/product/CD042200030001</a> |
+| 응급실 포화 지수 | [https://bigdata-covid.kr/product/CD042200030001](https://bigdata-covid.kr/product/CD042200030001) |
 | 중증응급환자 전원 현황 | [https://bigdata-covid.kr/product/CD042200090001](https://bigdata-covid.kr/product/CD042200090001) |
 | 응급의료기관 현황 | [https://bigdata-covid.kr/product/CD042200010001](https://bigdata-covid.kr/product/CD042200010001) |
 | 응급의료기관 내원 현황 | [https://bigdata-covid.kr/product/CD042200020001](https://bigdata-covid.kr/product/CD042200020001) |
