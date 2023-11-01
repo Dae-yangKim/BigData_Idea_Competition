@@ -26,13 +26,28 @@ _참고 뉴스_
 
 _감염병 빅데이터 거래소_
 
-| Data Name | URL |
-| --- | --- |
-| 응급실 포화 지수 | [https://bigdata-covid.kr/product/CD042200030001](https://bigdata-covid.kr/product/CD042200030001) |
-| 중증응급환자 전원 현황 | [https://bigdata-covid.kr/product/CD042200090001](https://bigdata-covid.kr/product/CD042200090001) |
-| 응급의료기관 현황 | [https://bigdata-covid.kr/product/CD042200010001](https://bigdata-covid.kr/product/CD042200010001) |
-| 응급의료기관 내원 현황 | [https://bigdata-covid.kr/product/CD042200020001](https://bigdata-covid.kr/product/CD042200020001) |
-| 지역별감염병환자발생비율 | [https://bigdata-covid.kr/product/CD122200050001](https://bigdata-covid.kr/product/CD122200050001) |
-| 응급실 재실시간 | [https://bigdata-covid.kr/product/CD042200060001](https://bigdata-covid.kr/product/CD042200060001) |
+| Data | Description | URL |
+| --- | --- | --- |
+| 연령별 감염병 환자 정보 | 감염병 환자에 대한 연령별 정보 데이터 | [https://www.bigdata-covid.kr/](https://www.bigdata-covid.kr/) |
+| 연령별 감염병 환자 발생 비율 | 감염병 환자 발생 비율에 대한 연령별 정보 데이터 | [https://www.bigdata-covid.kr/](https://www.bigdata-covid.kr/) |
+| 지역별 감염병 환자 정보 | 감염병 환자에 대한 지역별 정보 데이터 | [https://www.bigdata-covid.kr/](https://www.bigdata-covid.kr/) |
+| 지역별 감염병 환자 발생 비율 | 감염병 환자 발생 비율에 대한 지역별 정보 데이터 | [https://www.bigdata-covid.kr/](https://www.bigdata-covid.kr/) |
 
-_공공데이터포털_
+_행정안전부 주민등록 인구통계_
+
+| Data | Description | URL |
+| --- | --- | --- |
+| 2022/01 ~ 2022/12 주민등록 인구 현황 | 기간 내의 연령별 인구 통계 데이터 | [https://jumin.mois.go.kr/](https://jumin.mois.go.kr/) |
+
+_응급의료통계포털 MEDIS_
+
+| Data | Description | URL |
+| --- | --- | --- |
+| 시도별 응급의료기관 및 응급의료시설 | 응급의료기관 및 응급의료시설의 현황에 대해서 시도별로 정리한 데이터 | [https://e-medis.nemc.or.kr/portal/main/indexPage.do](https://e-medis.nemc.or.kr/portal/main/indexPage.do) |
+| 내원요일별 응급실 이용 (성별 + 연령별) | 내원 환자의 정보 (성별 + 연령)를 요일별로 정리한 데이터 | [https://e-medis.nemc.or.kr/portal/main/indexPage.do](https://e-medis.nemc.or.kr/portal/main/indexPage.do) |
+| 내원요일별 응급실 이용 (시도별) | 내원 환자의 정보 (시도)를 요일별로 정리한 데이터 | [https://e-medis.nemc.or.kr/portal/main/indexPage.do](https://e-medis.nemc.or.kr/portal/main/indexPage.do) |
+
+_KOSIS_
+| Data | Description | URL |
+| --- | --- | --- |
+|독거노인 가구 비율 | 지역별(시도별) 독거노인 가구 비율을 전체가구비율과 함께 정리한 데이터 | [https://kosis.kr/index/index.do](https://kosis.kr/index/index.do) |
