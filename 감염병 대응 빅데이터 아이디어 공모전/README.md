@@ -12,7 +12,7 @@
 현재 문제가 되고 있는 현황 , 도메인 지식등을 미리 조사하면서 먼저 주제를 정하고 , 데이터를 모은 후에 데이터를 이해하는 과정이 필요했기에 , 방법론으로는
 CRISP-DM 방식으로 채택을 함.<br>
 <a href="https://ibb.co/XLhRrP8"><img src="https://i.ibb.co/tK7rT6X/CRISP-DM-Process-Diagram.png" alt="CRISP-DM-Process-Diagram" border="0" width="350" height="350"></a><br>
-<strong>출처 : [https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)</strong>
+<strong>이미지 출처 : [https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)</strong>
 
 ---
 
