@@ -51,3 +51,9 @@ _KOSIS_
 | Data | Description | URL |
 | --- | --- | --- |
 |독거노인 가구 비율 | 지역별(시도별) 독거노인 가구 비율을 전체가구비율과 함께 정리한 데이터 | [https://kosis.kr/index/index.do](https://kosis.kr/index/index.do) |
+
+## 일정
+2023년 10월 20일 ~ 2023년 11월 12일
+
+## 결과
+<b>우수상 수상</b>
